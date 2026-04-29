@@ -1,2 +1,0 @@
-SamAccountName,TargetOU,DisableAccount,RemoveFromGroups,Reason
-helpdesk.tech03,Disabled Users,TRUE,TRUE,Sample offboarding test account
