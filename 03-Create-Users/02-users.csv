@@ -1,0 +1,73 @@
+FirstName,LastName,SamAccountName,UserPrincipalName,Department,OU,Title,Password,Enabled
+Luka,Doncic,luka.doncic,luka.doncic@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Austin,Reaves,austin.reaves,austin.reaves@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Marcus,Smart,marcus.smart,marcus.smart@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Luke,Kennard,luke.kennard,luke.kennard@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Nick,Smith Jr,nick.smith.jr,nick.smith.jr@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Bronny,James,bronny.james,bronny.james@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Chris,Manon,chris.manon,chris.manon@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+LeBron,James,lebron.james,lebron.james@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Rui,Hachimura,rui.hachimura,rui.hachimura@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Jarred,Vanderbilt,jarred.vanderbilt,jarred.vanderbilt@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Jake,LaRavia,jake.laravia,jake.laravia@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Dalton,Knecht,dalton.knecht,dalton.knecht@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Adou,Thiero,adou.thiero,adou.thiero@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Deandre,Ayton,deandre.ayton,deandre.ayton@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Jaxson,Hayes,jaxson.hayes,jaxson.hayes@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Maxi,Kleber,maxi.kleber,maxi.kleber@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+Drew,Timme,drew.timme,drew.timme@lakers.local,Players,Players,Player,LakersLab@2026!,TRUE
+JJ,Redick,jj.redick,jj.redick@lakers.local,Coaches,Coaches,Coaching Staff,LakersLab@2026!,TRUE
+assistant,coach01,assistant.coach01,assistant.coach01@lakers.local,Coaches,Coaches,Coaching Staff,LakersLab@2026!,TRUE
+assistant,coach02,assistant.coach02,assistant.coach02@lakers.local,Coaches,Coaches,Coaching Staff,LakersLab@2026!,TRUE
+assistant,coach03,assistant.coach03,assistant.coach03@lakers.local,Coaches,Coaches,Coaching Staff,LakersLab@2026!,TRUE
+player,development01,player.development01,player.development01@lakers.local,Coaches,Coaches,Coaching Staff,LakersLab@2026!,TRUE
+player,development02,player.development02,player.development02@lakers.local,Coaches,Coaches,Coaching Staff,LakersLab@2026!,TRUE
+video,coordinator,video.coordinator,video.coordinator@lakers.local,Coaches,Coaches,Coaching Staff,LakersLab@2026!,TRUE
+strength,coach,strength.coach,strength.coach@lakers.local,Coaches,Coaches,Coaching Staff,LakersLab@2026!,TRUE
+Rob,Pelinka,rob.pelinka,rob.pelinka@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+assistant,gm01,assistant.gm01,assistant.gm01@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+assistant,gm02,assistant.gm02,assistant.gm02@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+basketball,ops01,basketball.ops01,basketball.ops01@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+basketball,ops02,basketball.ops02,basketball.ops02@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+scouting,director,scouting.director,scouting.director@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+scout,east01,scout.east01,scout.east01@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+scout,west01,scout.west01,scout.west01@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+cap,analyst,cap.analyst,cap.analyst@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+operations,manager,operations.manager,operations.manager@lakers.local,FrontOffice,FrontOffice,Front Office Staff,LakersLab@2026!,TRUE
+finance,director,finance.director,finance.director@lakers.local,Finance,Finance,Finance Staff,LakersLab@2026!,TRUE
+accountant01,,accountant01,accountant01@lakers.local,Finance,Finance,Finance Staff,LakersLab@2026!,TRUE
+accountant02,,accountant02,accountant02@lakers.local,Finance,Finance,Finance Staff,LakersLab@2026!,TRUE
+payroll,specialist,payroll.specialist,payroll.specialist@lakers.local,Finance,Finance,Finance Staff,LakersLab@2026!,TRUE
+budget,analyst,budget.analyst,budget.analyst@lakers.local,Finance,Finance,Finance Staff,LakersLab@2026!,TRUE
+procurement,manager,procurement.manager,procurement.manager@lakers.local,Finance,Finance,Finance Staff,LakersLab@2026!,TRUE
+team,doctor,team.doctor,team.doctor@lakers.local,Medical,Medical,Medical Staff,LakersLab@2026!,TRUE
+assistant,doctor,assistant.doctor,assistant.doctor@lakers.local,Medical,Medical,Medical Staff,LakersLab@2026!,TRUE
+athletic,trainer01,athletic.trainer01,athletic.trainer01@lakers.local,Medical,Medical,Medical Staff,LakersLab@2026!,TRUE
+athletic,trainer02,athletic.trainer02,athletic.trainer02@lakers.local,Medical,Medical,Medical Staff,LakersLab@2026!,TRUE
+physical,therapist01,physical.therapist01,physical.therapist01@lakers.local,Medical,Medical,Medical Staff,LakersLab@2026!,TRUE
+physical,therapist02,physical.therapist02,physical.therapist02@lakers.local,Medical,Medical,Medical Staff,LakersLab@2026!,TRUE
+rehab,specialist,rehab.specialist,rehab.specialist@lakers.local,Medical,Medical,Medical Staff,LakersLab@2026!,TRUE
+nutritionist,,nutritionist,nutritionist@lakers.local,Medical,Medical,Medical Staff,LakersLab@2026!,TRUE
+media,director,media.director,media.director@lakers.local,Marketing,Marketing,Marketing Staff,LakersLab@2026!,TRUE
+social,media01,social.media01,social.media01@lakers.local,Marketing,Marketing,Marketing Staff,LakersLab@2026!,TRUE
+social,media02,social.media02,social.media02@lakers.local,Marketing,Marketing,Marketing Staff,LakersLab@2026!,TRUE
+content,creator01,content.creator01,content.creator01@lakers.local,Marketing,Marketing,Marketing Staff,LakersLab@2026!,TRUE
+content,creator02,content.creator02,content.creator02@lakers.local,Marketing,Marketing,Marketing Staff,LakersLab@2026!,TRUE
+brand,manager,brand.manager,brand.manager@lakers.local,Marketing,Marketing,Marketing Staff,LakersLab@2026!,TRUE
+marketing,analyst,marketing.analyst,marketing.analyst@lakers.local,Marketing,Marketing,Marketing Staff,LakersLab@2026!,TRUE
+public,relations,public.relations,public.relations@lakers.local,Marketing,Marketing,Marketing Staff,LakersLab@2026!,TRUE
+it,director,it.director,it.director@lakers.local,IT,IT,IT Staff,LakersLab@2026!,TRUE
+it,admin,it.admin,it.admin@lakers.local,IT,IT,IT Staff,LakersLab@2026!,TRUE
+identity,admin,identity.admin,identity.admin@lakers.local,IT,IT,IT Staff,LakersLab@2026!,TRUE
+security,analyst,security.analyst,security.analyst@lakers.local,IT,IT,IT Staff,LakersLab@2026!,TRUE
+cloud,engineer,cloud.engineer,cloud.engineer@lakers.local,IT,IT,IT Staff,LakersLab@2026!,TRUE
+network,engineer,network.engineer,network.engineer@lakers.local,IT,IT,IT Staff,LakersLab@2026!,TRUE
+systems,engineer,systems.engineer,systems.engineer@lakers.local,IT,IT,IT Staff,LakersLab@2026!,TRUE
+helpdesk,tech01,helpdesk.tech01,helpdesk.tech01@lakers.local,Helpdesk,Helpdesk,Helpdesk Technician,LakersLab@2026!,TRUE
+helpdesk,tech02,helpdesk.tech02,helpdesk.tech02@lakers.local,Helpdesk,Helpdesk,Helpdesk Technician,LakersLab@2026!,TRUE
+helpdesk,tech03,helpdesk.tech03,helpdesk.tech03@lakers.local,Helpdesk,Helpdesk,Helpdesk Technician,LakersLab@2026!,TRUE
+desktop,support01,desktop.support01,desktop.support01@lakers.local,Helpdesk,Helpdesk,Helpdesk Technician,LakersLab@2026!,TRUE
+desktop,support02,desktop.support02,desktop.support02@lakers.local,Helpdesk,Helpdesk,Helpdesk Technician,LakersLab@2026!,TRUE
+it,admin,it.admin,it.admin@lakers.local,Privileged Accounts,Privileged Accounts,Privileged Admin Account,LakersLab@2026!,TRUE
+identity,admin,identity.admin,identity.admin@lakers.local,Privileged Accounts,Privileged Accounts,Privileged Admin Account,LakersLab@2026!,TRUE
+security,admin,security.admin,security.admin@lakers.local,Privileged Accounts,Privileged Accounts,Privileged Admin Account,LakersLab@2026!,TRUE

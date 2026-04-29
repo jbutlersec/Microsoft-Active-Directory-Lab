@@ -3,7 +3,7 @@
 This phase focuses on the logical architecture of the `lakers.local` domain. By automating the creation of OUs and Security Groups, I have established a scalable framework for Group Policy application and administrative delegation.
 
 ### 📜 Featured Script
-* **`02-create-ou-structure.ps1`**: A PowerShell orchestration script that programmatically builds the top-level and nested OU structure, ensuring consistency across the environment.
+* **`01-create-ou-structure.ps1`**: A PowerShell orchestration script that programmatically builds the top-level and nested OU structure, ensuring consistency across the environment.
 
 ### 🏗️ Hierarchy Design
 The structure is designed to support a multi-departmental enterprise:

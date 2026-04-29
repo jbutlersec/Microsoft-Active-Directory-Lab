@@ -1,0 +1,20 @@
+GroupName,GroupScope,GroupCategory,OU,Description
+GG-Lakers-Players,Global,Security,Groups,Global security group for Players access
+GG-Lakers-Coaches,Global,Security,Groups,Global security group for Coaches access
+GG-Lakers-FrontOffice,Global,Security,Groups,Global security group for FrontOffice access
+GG-Lakers-Finance,Global,Security,Groups,Global security group for Finance access
+GG-Lakers-Medical,Global,Security,Groups,Global security group for Medical access
+GG-Lakers-Marketing,Global,Security,Groups,Global security group for Marketing access
+GG-Lakers-IT,Global,Security,Groups,Global security group for IT access
+GG-Lakers-Helpdesk,Global,Security,Groups,Global security group for Helpdesk access
+GG-Lakers-AllStaff,Global,Security,Groups,All standard Lakers user accounts
+GG-Lakers-Privileged-Admins,Global,Security,Groups,Separated privileged admin accounts
+DL-Lakers-Players-Share-RW,DomainLocal,Security,Groups,Read/write access to Players share
+DL-Lakers-Coaches-Share-RW,DomainLocal,Security,Groups,Read/write access to Coaches share
+DL-Lakers-FrontOffice-Share-RW,DomainLocal,Security,Groups,Read/write access to FrontOffice share
+DL-Lakers-Finance-Share-RW,DomainLocal,Security,Groups,Read/write access to Finance share
+DL-Lakers-Medical-Share-RW,DomainLocal,Security,Groups,Read/write access to Medical share
+DL-Lakers-Marketing-Share-RW,DomainLocal,Security,Groups,Read/write access to Marketing share
+DL-Lakers-IT-Share-RW,DomainLocal,Security,Groups,Read/write access to IT share
+DL-Lakers-Helpdesk-Share-RW,DomainLocal,Security,Groups,Read/write access to Helpdesk share
+DL-Lakers-Privileged-Admin-Tools-RW,DomainLocal,Security,Groups,Read/write access to privileged admin tools share
