@@ -26,3 +26,9 @@ Challenge: Raw Active Directory data for group memberships is exported as long, 
 Solution: Implemented a foreach loop within the reporting block to translate those complex strings into simple Group Names, joined by semi-colons for a clean spreadsheet view.
 
 Lesson: Systems Administration is not just about building infrastructure; it is about maintaining visibility. Automated reporting is the bridge between technical execution and security compliance.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/08-1.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/08-2.png)### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/08-3.png)

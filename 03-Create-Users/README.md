@@ -20,3 +20,12 @@ This phase demonstrates the automation of the identity lifecycle. Instead of man
 ### 🛠️ Troubleshooting
 * **Challenge:** Handling duplicate usernames or special characters in names.
 * **Solution:** Integrated a check within the script to verify if a SamAccountName already exists before attempting creation.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/03-1.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/03-2.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/03-3.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/03-4.png)

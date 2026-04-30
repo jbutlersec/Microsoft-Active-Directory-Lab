@@ -13,3 +13,9 @@ This phase establishes the foundation of the `lakers.local` lab environment. Bef
 * **Issue:** Script execution was blocked by default Windows security settings.
 * **Solution:** Used `Set-ExecutionPolicy` to bypass the restriction for the administrative session.
 * **Lesson:** Always verify the execution policy as the very first step in a new Windows Server build to avoid "Access Denied" errors in later automation phases.
+
+---
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/00-1.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/00-2.png)

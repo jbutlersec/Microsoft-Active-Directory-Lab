@@ -24,3 +24,8 @@ Challenge: Group creation would fail if the parent OU had not been initialized f
 Solution: Integrated a validation step using Get-ADOrganizationalUnit to ensure the target OU exists before attempting to create the group object.
 
 Lesson: Data-driven automation requires "sanitized" inputs; the script utilizes .Trim() to remove accidental whitespace from CSV data that could cause naming failures in AD.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/02-1.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/02-2.png)

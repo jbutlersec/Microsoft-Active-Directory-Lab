@@ -24,3 +24,8 @@ Challenge: Standard Add-ADGroupMember commands throw a terminating error if a us
 Solution: Implemented specialized exception handling that identifies the "already a member" message and converts it into a non-terminating information notification.
 
 Lesson: When working with identity data, always .Trim() your CSV inputs. Leading or trailing spaces in a spreadsheet are a common cause of "Object Not Found" errors in Active Directory.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/04-1.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/04-2.png)

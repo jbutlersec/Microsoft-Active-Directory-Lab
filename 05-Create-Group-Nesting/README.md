@@ -26,3 +26,10 @@ Challenge: Standard PowerShell commands for group modification can be "noisy" an
 Solution: Implemented custom logic to filter for "already a member" exceptions, turning potential errors into helpful status updates.
 
 Lesson: Data sanitization remains critical. The script uses .Trim() on all CSV inputs to eliminate "Object Not Found" errors caused by hidden whitespaces in the source data.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/05-1.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/05-2.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/05-3.png)

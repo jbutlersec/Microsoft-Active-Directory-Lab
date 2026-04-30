@@ -20,3 +20,8 @@ The structure is designed to support a multi-departmental enterprise:
 ### 🛠️ Troubleshooting
 * **Challenge:** Manually creating 20+ OUs is prone to human error and naming inconsistencies.
 * **Solution:** Developed a loop-based PowerShell script to iterate through an array of department names, ensuring a uniform sub-folder structure for every department.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/01-1.png)
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/01-2.png)

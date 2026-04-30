@@ -28,3 +28,6 @@ Elevated Privileges: Must be run from an Administrator PowerShell session on a D
 Execution Policy: Set to RemoteSigned to allow the execution of local orchestration scripts.
 
 Data Integrity: All source CSV files must be present in C:\LA Lakers AD\CSV and all technical modules present in C:\LA Lakers AD\Scripts.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/09-1.png)

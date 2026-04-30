@@ -26,3 +26,6 @@ Challenge: Manual NTFS permissioning is highly susceptible to "Permission Creep"
 Solution: Utilized the .SetAccessRuleProtection($true, $false) method to programmatically "seal" folders from parent inheritance.
 
 Lesson: In a complex IAM environment, always use ContainerInherit, ObjectInherit flags. This ensures that security rules applied to a folder correctly flow down to all future files and sub-folders created inside it.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/06-1.png)

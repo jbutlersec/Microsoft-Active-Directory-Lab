@@ -28,3 +28,6 @@ Challenge: Users often remain members of several complex group hierarchies, maki
 Solution: Utilized a foreach loop to dynamically target and remove every group listed in the user's profile attributes automatically.
 
 Lesson: In a production environment, the "Offboarded" OU should be created during the initial forest setup to ensure de-provisioning scripts never fail due to a missing target path.
+
+### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/07-1.png)
