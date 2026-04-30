@@ -1,4 +1,4 @@
-Phase 08: Automated IAM Auditing & Access Review Reporting
+# Phase 08: Automated IAM Auditing & Access Review Reporting
 This final phase of the lakers.local lab focuses on governance and compliance. To ensure the integrity of the identity environment, I developed a PowerShell auditing script that generates a comprehensive Access Review Report. This tool allows administrators to perform periodic user access reviews, a critical requirement for modern security frameworks.
 
 📜 Featured Script
