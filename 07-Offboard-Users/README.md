@@ -1,4 +1,4 @@
-Phase 07: Automated User Offboarding & Identity Lifecycle De-provisioning
+# Phase 07: Automated User Offboarding & Identity Lifecycle De-provisioning
 This phase focuses on the "Termination" or "Offboarding" stage of the IAM lifecycle. To prevent "orphan accounts" and mitigate security risks, I developed a PowerShell orchestration script that automates the multi-step process of de-provisioning user access and securing their identity objects within the lakers.local domain.
 
 📜 Featured Script
