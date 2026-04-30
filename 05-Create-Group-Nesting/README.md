@@ -1,4 +1,4 @@
-Phase 05: Automated Group Nesting & Infrastructure Optimization
+# Phase 05: Automated Group Nesting & Infrastructure Optimization
 This phase focuses on establishing a sophisticated group hierarchy within the lakers.local domain. By implementing automated Group Nesting, I have created a structured environment that simplifies administrative overhead and ensures consistent permission inheritance across the organization.
 
 📜 Featured Script
