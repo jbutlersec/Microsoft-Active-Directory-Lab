@@ -30,5 +30,6 @@ Lesson: Systems Administration is not just about building infrastructure; it is 
 ### ✅ Lab Validation
 ![Validation Screenshot](./Screenshots/08-1.png)
 ### ✅ Lab Validation
-![Validation Screenshot](./Screenshots/08-2.png)### ✅ Lab Validation
+![Validation Screenshot](./Screenshots/08-2.png)
+### ✅ Lab Validation
 ![Validation Screenshot](./Screenshots/08-3.png)
