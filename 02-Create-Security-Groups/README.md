@@ -1,4 +1,4 @@
-Phase 02: Automated Security Group Deployment
+# Phase 02: Automated Security Group Deployment
 This component of the lab focuses on the automated creation of Active Directory Security Groups. By utilizing a data-driven approach with PowerShell, I ensure that the infrastructure supports a consistent and secure access model across the lakers.local domain.
 
 📜 Featured Script
