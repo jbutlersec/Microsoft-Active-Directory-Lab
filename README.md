@@ -25,11 +25,11 @@ The lab is organized into eight modular phases, reflecting the real-world deploy
 ### **Phase II: Identity Orchestration**
 * **[03-Create-Users](./03-Create-Users):** Bulk user provisioning using PowerShell and CSV source-of-truth data.
 * **[04-Assign-Group-Membership](./04-Assign-Group-Membership):** Granular security group mapping and RBAC (Role-Based Access Control) implementation.
-* **[05-Create-Shared-Folders](./05-Create-Shared-Folders):** Automating departmental file services and NTFS permission inheritance.
+* **[05-Create-Group-Nesting](./05-Create-Group-Nesting):** Inheritance of permissions and streamlined access management across a hierarchy.
 
 ### **Phase III: Networking & Security Auditing**
-* **[06-Set-Network-Routes](./06-Set-Network-Routes):** Configuring virtual network interfaces and cross-subnet communication.
-* **[07-Network-Scan](./07-Network-Scan):** Defensive auditing and network discovery to identify the attack surface.
+* **[06-Create-Shared-Folders](./06-Create-Shared-Folders):** Automating departmental file services and NTFS permission inheritance.
+* **[07-Offboard-Users](./07-Offboard-Users):** Process of securely deactivating accounts.
 * **[08-Sys-Admin-Audit](./08-Sys-Admin-Audit):** Final validation of IAM controls, password policies, and domain integrity.
 
 ---
