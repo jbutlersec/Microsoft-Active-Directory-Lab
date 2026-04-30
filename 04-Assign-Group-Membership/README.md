@@ -1,4 +1,4 @@
-Phase 04: Automated Group Membership & RBAC Implementation
+# Phase 04: Automated Group Membership & RBAC Implementation
 This phase focuses on the orchestration of user-to-group assignments. By automating memberships via PowerShell, I have implemented a scalable Role-Based Access Control (RBAC) model for the lakers.local domain, ensuring users automatically receive the permissions required for their specific job functions.
 
 📜 Featured Script
