@@ -1,4 +1,4 @@
-Phase 06: Automated File Services & NTFS Security Orchestration
+# Phase 06: Automated File Services & NTFS Security Orchestration
 This phase demonstrates the automation of enterprise resource provisioning within the lakers.local domain. By utilizing PowerShell to deploy SMB shares and programmatically enforce NTFS permissions, I have established a secure, "Least Privilege" file-sharing infrastructure.
 
 📜 Featured Script
