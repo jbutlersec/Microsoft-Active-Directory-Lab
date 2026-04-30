@@ -9,6 +9,6 @@ Marketing,Lakers,Media and marketing accounts
 IT,Lakers,IT department accounts
 Helpdesk,Lakers,Helpdesk accounts
 Privileged Accounts,Lakers,Separated admin accounts
-Disabled Users,Lakers,Disabled and offboarded accounts
+Offboarded,Lakers,Disabled and offboarded accounts
 Groups,Lakers,Security groups
 Shared Resources,Lakers,Shared resource objects
